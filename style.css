@@ -88,7 +88,7 @@ section .title::after{
 }
 .navbar.sticky{
     padding: 15px 0;
-    background: #20c997;
+    background: #271a9c;
 }
 .navbar .max-width{
     display: flex;
@@ -242,7 +242,7 @@ section .title::after{
 }
 .about .about-content .right a{
     display: inline-block;
-    background: #20c997;
+    background: #2e1e53;
     color: #fff;
     font-size: 20px;
     font-weight: 500;
