@@ -35,18 +35,13 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Desarrollo Web", "Bases De Datos", "Otro", "Otro", "Otro"],
+        strings: ["Electrónica", "Bases De Datos", "Otro", "Otro", "Otro"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
-    var typed = new Typed(".typing-2", {
-        strings: [ "Bases De Datos","Electrónica", "Otro", "Otro", "Otro"],
-        typeSpeed: 100,
-        backSpeed: 60,
-        loop: true
-    });
+    
    
 
     // owl carousel script
