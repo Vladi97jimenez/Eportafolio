@@ -215,14 +215,14 @@ section .title::after{
 
 /* about section styling */
 .about .title::after{
-    content: "Exitos";
+    content: "";
 }
 .about .about-content .left{
     width: 45%;
 }
 .about .about-content .left img{
-    height: 1000px;
-    width: 1000px;
+    height: 400px;
+    width: 400px;
     object-fit: cover;
     border-radius: 6px;
 }
@@ -306,7 +306,7 @@ section .title::after{
 /* skills section styling */
 
 .skills .title::after{
-    content: "Cuanto se?";
+    content: "";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
