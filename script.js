@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Desarrollo Web", "Bases De Datos", "Otro", "Otro", "Otro"],
+        strings: [ "Bases De Datos","Electrónica", "Otro", "Otro", "Otro"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
